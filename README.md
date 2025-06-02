@@ -1,21 +1,10 @@
-# dweekly's Homebrew Tap
+# Homebrew Tap for 'ftr'
 
-This tap contains Homebrew formulae for software by @dweekly.
+This simple repo is just to allow users to install the ftr (fast traceroute) app with Homebrew.
 
-## How do I install these formulae?
-
-`brew install dweekly/tap/<formula>`
-
-Or `brew tap dweekly/tap` and then `brew install <formula>`.
-
-## Available Formulae
-
-### ftr
-Fast, parallel ICMP traceroute with ASN lookup
+See https://github.com/dweekly/ftr for the app itself.
 
 ```bash
-brew install dweekly/tap/ftr
+  brew tap dweekly/ftr
+  brew install ftr
 ```
-
-## Documentation
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).

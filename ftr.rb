@@ -1,8 +1,8 @@
 class Ftr < Formula
   desc "Fast, parallel ICMP traceroute with ASN lookup"
   homepage "https://github.com/dweekly/ftr"
-  url "https://github.com/dweekly/ftr/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "5bfaeff8e4048e7cf3252c6afaf4b8995517c0b22ee6b2f6c39a00f5f7a50e59"
+  url "https://github.com/dweekly/ftr/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "1ca81413a4e09df6732cdaad442604e5027085c3fe5eafa896d196dc70fc35e3"
   license "MIT"
   head "https://github.com/dweekly/ftr.git", branch: "main"
 
